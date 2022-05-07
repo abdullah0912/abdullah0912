@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on flutter & mobile app development, Keen on flutter and mobile app world!
-- 🌱 I’m also learning C# & .Net(framework), Visual Studio usage, MySQL Workbench, SQL, Firebase and more
+- 🌱 I’m also learning Python, C# forms & .Net(framework), Visual Studio Code IDE, Visual Studio 2019 IDE, MySQL Workbench, SQL, Firebase and more
 - 💬 Ask me about [Twitter](https://twitter.com/AbdullahKasgar) and [instagram](https://www.instagram.com/jay_official_24_)
 
 
