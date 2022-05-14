@@ -1,4 +1,6 @@
-# Hi there 👋
+## Hi there👋 I'm Abdullah 💻
+
+### Flutter & Mobile App Developer | Software Student
 
 ### 🤔 Who am i?
 - 📚 I am a high school student in Istanbul Turkey
