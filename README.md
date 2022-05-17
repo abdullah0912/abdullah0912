@@ -66,9 +66,12 @@
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"></code>
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
  <code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
+
+ <h2 align="center">Badges</h2>
+ 
+ <a href="https://github.com/abdullah0912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
 </p>
-
 
 ![Dashatars](https://user-images.githubusercontent.com/88820048/167238602-cda96ac0-e04f-4e05-bce8-0e8f0c437b47.png)
 
