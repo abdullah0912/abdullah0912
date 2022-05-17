@@ -1,3 +1,5 @@
+# Hello World 🌍 I'm [Abdulah Kasgar!](https://github.com/abdullah0912) 👋
+
 ### 🤔 Who am i?
 - 📚 I am a high school student in Istanbul Turkey
 - 🔭 I’m currently working on flutter & mobile app development, Keen on flutter and mobile app world!
@@ -21,7 +23,7 @@
 
  ![Dashatars](https://user-images.githubusercontent.com/88820048/167238602-cda96ac0-e04f-4e05-bce8-0e8f0c437b47.png)
 
-</br>
+</a>
 
  <h2 align="left">👻 Follow me on Social Media </h2>
 <p align="left">
