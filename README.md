@@ -4,6 +4,7 @@
 - 📚 I am a high school student in Istanbul Turkey
 - 🔭 I’m currently working on flutter & mobile app development, Keen on flutter and mobile app world!
 - 📫 You can connect with me on **abdullahkasgar2494@gmail.com**
+- 🏀 Lakers fan **https://www.nba.com/lakers**
 
 <p align="left">  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdullah0912?label=Followers&style=social"> •   
