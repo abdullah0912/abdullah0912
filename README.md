@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<h2 align="left">👩‍💻 Languages and Tools</h2>
+<h2 align="left">👩‍💻 Languages and Frameworks</h2>
 
 <code><img height="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
