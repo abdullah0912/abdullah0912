@@ -1,4 +1,4 @@
-# Hello World 🌍 I'm [Abdulah Kasgar!](https://github.com/abdullah0912) 👋
+# Hello World 🌍 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912) 👋
 
 ### 🤔 Who am i?
 - 📚 I am a high school student in Istanbul Turkey
