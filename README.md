@@ -1,10 +1,11 @@
-# Hello World 🌍 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912) 👋
+# Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
 
 ### 🤔 Who am i?
-- 📚 I am a high school student in Istanbul Turkey
-- 🔭 I’m currently working on flutter & mobile app development, Keen on flutter and mobile app world!
-- 📫 You can connect with me on **abdullahkasgar2494@gmail.com**
-- 🏀 Los Angeles Lakers fan **https://www.nba.com/lakers**
+- 📚 **I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
+- 🐶 **I'm based in Istanbul**
+- 🔭 **Keen on Software World!**
+- 📫 **You can connect with me on** **abdullahkasgar2494@gmail.com**
+- 🏀 **Los Angeles Lakers fan** **https://www.nba.com/lakers**
 
 <p align="left">  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdullah0912?label=Followers&style=social"> •   
@@ -15,10 +16,10 @@
 ***DON'T RUIN YOURSELF FOR THOSE WHO DONT CARE ABOUT YOU***
 <br>
 
-***- If you don't put your life on the line, you can't earn your living***
-<br>
+- ***If you don't put your life on the line, you can't earn your living***
 
-***- If there is no struggle, there is no progress***
+- ***If there is no struggle, there is no progress so Work hard 🔥***
+
 </br>
 </br>
 
@@ -26,7 +27,7 @@
 
 </a>
 
- <h2 align="left">👻 Follow me on Social Media </h2>
+ <h3 align="left"> 👻 Socials </h3>
 <p align="left">
 <a href="https://instagram.com/jay_official_24_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://twitter.com/AbdullahKasgar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" width="40" />
@@ -34,34 +35,17 @@
 <br>
 <br>
 
-<h2 align="left">👩‍💻 Languages and Frameworks</h2>
+<h3 align="left"> 👩‍💻 Skills </h3>
 
-<code><img height="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
- <code><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
-  <code><img src="https://img.icons8.com/color/48/000000/arduino.png"/></code>
-  <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+ <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <br>
-<br>
-
-<h2 align="left">💻 IDE and Editors</h2>
-
-<p align="left">
-  
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"></code>
-<code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
- <code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
-
-<br>
- 
-<h2 align="left">⚡ Databases</h2>
-
-<p align="left">
-  
-<code><img height="40" width="40" src="http://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
- <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/firebase-logo.png"></code>
-
- <br>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0912&show_icons=true&include_all_commits=true&count&theme=algolia" alt="abdullah0912's github stats"/>
@@ -69,6 +53,6 @@
 <br/>
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&layout=compact&theme=algolia"/>
+    </a>
+  <br/>
 
-  <br>
-<br>
