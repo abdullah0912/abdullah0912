@@ -1,7 +1,7 @@
 # Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
 
 ### 🤔 Who am i?
-- 📚 **I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
+- 📚 **I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 - 🐶 **I'm based in Istanbul**
 - 🔭 **Keen on Software World!**
 - 📫 **You can connect with me on** **abdullahkasgar2494@gmail.com**
