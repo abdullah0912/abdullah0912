@@ -18,7 +18,7 @@
 
 - ***If you don't put your life on the line, you can't earn your living***
 
-- ***If there is no struggle, there is no progress so Work hard 🔥***
+- ***If there is no struggle, there is no progress so Work hard for your dreams 🔥***
 
 </br>
 </br>
