@@ -5,7 +5,6 @@
 - 🐶 **I'm based in Istanbul**
 - 🔭 **Keen on Software World!**
 - 📫 **You can connect with me on** **abdullahkasgar2494@gmail.com**
-- 🏀 **Los Angeles Lakers fan** **https://www.nba.com/lakers**
 
 <p align="left">  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdullah0912?label=Followers&style=social"> •   
@@ -23,7 +22,7 @@
 </br>
 </br>
 
- ![Dashatars](https://user-images.githubusercontent.com/88820048/167238602-cda96ac0-e04f-4e05-bce8-0e8f0c437b47.png)
+![HTB1twj_KpXXXXXJaXXXq6xXFXXXY](https://user-images.githubusercontent.com/88820048/177989742-b311cc9b-d32d-4827-b260-47788b009eaa.jpg)
 
 </a>
 
