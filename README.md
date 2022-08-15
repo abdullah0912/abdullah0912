@@ -32,6 +32,7 @@
 <a href="https://Twitter.com/AbdullahKasgar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/jay_official_24_"><img src="https://img.shields.io/badge/instagram-%23d44638.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+
  </a>
 <br>
 <br>
