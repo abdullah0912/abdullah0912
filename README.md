@@ -20,11 +20,6 @@
 - ***If there is no struggle, there is no progress so Work hard for your dreams 🔥***
 
 </br>
-</br>
-
-![HTB1twj_KpXXXXXJaXXXq6xXFXXXY](https://user-images.githubusercontent.com/88820048/177989742-b311cc9b-d32d-4827-b260-47788b009eaa.jpg)
-
-</a>
 
  <h3 align="left"> 👻 Socials </h3>
 <a href="https://github.com/abdullah0912"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
