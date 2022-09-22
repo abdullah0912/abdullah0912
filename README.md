@@ -45,11 +45,10 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah0912&show_icons=true&include_all_commits=true&count&theme=algolia" alt="abdullah0912's github stats"/>
- 
-<br/>
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&layout=compact&theme=algolia"/>
-    </a>
-  <br/>
+<h3 align="left"> 🐾 My Github Stats </h3>
 
+<a href="http://www.github.com/abdullah0912"><img src="https://github-readme-stats.vercel.app/api?username=abdullah0912&show_icons=true&hide=&count_private=true&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=05033E&hide_border=true&show_icons=true" alt="abdullah0912's GitHub stats" /></a>
+
+<br>
+
+<a href="https://github.com/abdullah0912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&langs_count=10&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=05033E&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
