@@ -54,3 +54,4 @@
 <br>
 
 <a href="https://github.com/abdullah0912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&langs_count=10&title_color=FFFFFF&text_color=ffffff&icon_color=0891b2&bg_color=05033E&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
