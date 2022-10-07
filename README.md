@@ -1,11 +1,12 @@
 # Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
+## Junior Mobile Developer ♨
 
 ### 🤔 Who am i?
-- 📚 **I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
-- 🐶 **I'm based in Istanbul**
-- ⭐ **I'm Currently Working on Web Dev.**
-- 🔭 **Keen on Flutter & Mobile Dev.**
-- 📫 **You can connect with me on** **abdullahkasgar2494@gmail.com**
+- 📚 *I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*
+- 🐶 *I'm based in Istanbul*
+- ⭐ *I'm Currently Working on Web Dev.*
+- 🔭 *Keen on Flutter & Mobile Dev.*
+- 📫 *You can connect with me on** **abdullahkasgar2494@gmail.com*
 
 <p align="left">  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdullah0912?label=Followers&style=social"> •   
