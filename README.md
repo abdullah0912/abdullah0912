@@ -6,7 +6,7 @@
 - 🐶 *I'm based in Istanbul*
 - ⭐ *I'm Currently Working on Web Dev.*
 - 🔭 *Keen on Flutter & Mobile Dev.*
-- 📫 *You can connect with me on** **abdullahkasgar2494@gmail.com*
+- 📫 *You can connect with me on* *abdullahkasgar2494@gmail.com*
 
 <p align="left">  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdullah0912?label=Followers&style=social"> •   
