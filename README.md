@@ -1,5 +1,5 @@
 # Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
-## Junior Mobile Developer ♨
+## Junior Flutter Developer ♨
 
 ### 🤔 Who am i?
 - 📚 *I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*
