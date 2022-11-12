@@ -4,19 +4,6 @@
 
 🔭 ***Keen on Flutter & Mobile Dev.***
 
-<br>
-
- <h3 align="left"> Socials </h3>
-<a href="https://github.com/abdullah0912"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:abdullahkasgar2494@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44700.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://Twitter.com/AbdullahKasgar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/abdullah.kasgar"><img src="https://img.shields.io/badge/instagram-%23d44638.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-
- </a>
-<br>
-<br>
-
 <h3 align="left"> Skills </h3>
 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -25,8 +12,14 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="39" height="39"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="39" height="39"/> </a>
-<br>
-<br>
+
+
+ <h3 align="left"> Socials </h3>
+<a href="https://github.com/abdullah0912"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:abdullahkasgar2494@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44700.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://Twitter.com/AbdullahKasgar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/abdullah.kasgar"><img src="https://img.shields.io/badge/instagram-%23d44638.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 <h3 align="left"> 🐾 My Github Stats </h3>
 
