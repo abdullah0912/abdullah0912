@@ -1,12 +1,16 @@
 # Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
 
-## Junior Developer, Student
+## Software Engineer, Student
 
-* 📚 I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
-* 🌍  I live in İstanbul
-* ✉️  You can contact me at [abdullahkasgar2494@gmail.com](mailto:abdullahkasgar2494@gmail.com)
-* 🚀  I'm currently studying at [ŞBBKÇPAL](https://bedirkarabiyik.meb.k12.tr)
-* 🧠  I'm learning Flutter, Html & CSS
+📚 I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
+<br>
+🌍  I live in İstanbul
+<br>
+✉️  You can contact me at [abdullahkasgar2494@gmail.com](mailto:abdullahkasgar2494@gmail.com)
+<br>
+🚀  I'm currently studying at [ŞBBKÇPAL](https://bedirkarabiyik.meb.k12.tr)
+<br>
+🧠  I'm learning Flutter, Html & CSS
 
 
 <h3 align="left"> Skills </h3>
