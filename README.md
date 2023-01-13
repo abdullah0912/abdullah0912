@@ -15,12 +15,13 @@
 <h3 align="left"> Skills </h3>
 
 <p align="left">
+
+<a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> &nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> &nbsp;
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47bgw4a03wepsj9fu58fv4bnakgu68w9maakjvolbu&rid=200w.webp&ct=s" width="40" height="40" alt="HTML5" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47bgw4a03wepsj9fu58fv4bnakgu68w9maakjvolbu&rid=200w.webp&ct=s" width="40" height="40" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47sp0m01dbzhi0dmzcub5tab39q4u5oi2n2cf4n343&rid=200w.webp&ct=s" width="40" height="40" alt="CSS3" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40" height="40" alt="JavaScript" /></a> &nbsp;
 </p>
 
 ### Socials
