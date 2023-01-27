@@ -1,22 +1,21 @@
-# Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912) <img src="https://media0.giphy.com/media/tTusibTqDKsot0Subc/giphy.gif?cid=790b761135789e9d342603f9fcdd090c4c327ded7185fc83&rid=giphy.gif&ct=s" width="45">
+# Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
 
 ## Teen Entrepreneur
+
+<img src="https://media.tenor.com/4Ynlngp-dNoAAAAi/codemodeon-vr-headset.gif"  width="249" height="157" align="right">
 
 💻  I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
 <br>
 🌍  I live in İstanbul
 <br>
-🧠  I'm learning how to draw a model rocket on [OpenRocket](https://openrocket.info)
+🧠  I'm currently working on Game Developmont on <b>[Unity](https://unity.com/)</b> game engine
 <br>
-🚀  Follow my aerospace and technology company on instagram [EvrenOSX](https://www.instagram.com/evrenosx)
-<img src="https://media1.giphy.com/media/ZF1TL1VDIzCwDSOovY/giphy.webp?cid=ecf05e47a7z0kpmvr11ju8ipgxlclo2hexfuasanzn5waxyd&rid=giphy.webp&ct=s" align="right">
 
 
 <h3 align="left"> Skills </h3>
 
 <p align="left">
 
-<a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> &nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> &nbsp;
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/> </a> 
