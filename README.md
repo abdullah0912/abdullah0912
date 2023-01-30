@@ -4,11 +4,11 @@
 
 <img src="https://media.tenor.com/4Ynlngp-dNoAAAAi/codemodeon-vr-headset.gif"  width="249" height="157" align="right">
 
-💻  I'm a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
+***🔥   Software Engineering Student
 <br>
 🌍  I live in İstanbul
 <br>
-🧠  I'm currently working on Game Developmont on <b>[Unity](https://unity.com/)</b> game engine
+🕹️ I'm currently working on Game Developmont on <b>[Unity](https://unity.com/)</b> game engine***
 <br>
 
 
