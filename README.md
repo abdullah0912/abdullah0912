@@ -1,4 +1,4 @@
-# Hello👋 I'm [Abdullah Kaşgar!](https://github.com/abdullah0912)
+<h1 align="center">Hello👋 I'm Abdullah Kaşgar</h1>
 
 ## Teen Entrepreneur
 
