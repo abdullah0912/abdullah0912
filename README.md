@@ -2,15 +2,10 @@
 
 ## Teen Entrepreneur
 
-<img src="https://media.tenor.com/4Ynlngp-dNoAAAAi/codemodeon-vr-headset.gif"  width="249" height="157" align="right">
-
-***🔥   Software Engineering Student
+***🔥 Software Engineering Student
 <br>
-🌍  I live in İstanbul
+🌍  I live in İstanbul/Türkiye***
 <br>
-🕹️ I'm currently working on Game Developmont on <b>[Unity](https://unity.com/)</b> game engine***
-<br>
-
 
 <h3 align="left"> Skills </h3>
 
