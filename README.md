@@ -1,27 +1,42 @@
-<h1 align="center">Hello👋 I'm Abdullah Kaşgar</h1>
+<!-- Level 3: Add custom code -->
 
-## Teen Entrepreneur
+# 👋 Hi, I'm Abdullah!
+🔌 Software Developer sharing about my journey and learnings in tech<br/>
+🎨 I am passionate about learning new technologies and developing projects that solve real-world problems.  
+💻 This repository is a collection of my works, experiments, and ideas that I am constantly improving.<br/>
+💭 Currently learning about web technologies<br/>
 
-***🔥 Software Engineering Student
-<br>
-🌍  I live in İstanbul/Türkiye***
-<br>
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<h3 align="left"> Skills </h3>
+<br/>
 
-<p align="left">
+<a href="https://github.com/abdullah0912">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah0912&theme=buefy&show_icons=true_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&theme=buefy&layout=compact" />
+</a>
 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> &nbsp;
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> &nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47bgw4a03wepsj9fu58fv4bnakgu68w9maakjvolbu&rid=200w.webp&ct=s" width="40" height="40" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47sp0m01dbzhi0dmzcub5tab39q4u5oi2n2cf4n343&rid=200w.webp&ct=s" width="40" height="40" alt="CSS3" /></a> &nbsp;
-</p>
+<!--
+# 💻 Featured YouTube Videos
+ YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
 
-### Socials
 
-<p align="left"> 
-<a href="https://www.instagram.com/abdullah.kasgar/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=790b7611649c6e9d30670979962a8ed7fd1d2735c318522d&rid=giphy.gif&ct=s" width="32" height="32" /></a> &nbsp;
-<a href="https://www.twitter.com/AbdullahKasgar/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/gAkSOKitTKTxhQnu15/giphy.gif?cid=790b7611153676296f1ca5746ffa302cda59d92f98fca375&rid=giphy.gif&ct=s" width="32" height="32" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/abdullah-kasgar-381665220/" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/yDM1kJZthxFPoGDdmq/200w.webp" width="32" height="32" /></a> &nbsp;
-</p>
+<!--
+Buradan aşağısı istenilen youtube video kısmı için
+
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
+[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
+[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
+[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
+[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
+-->
