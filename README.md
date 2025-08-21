@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Abdullah!
-🔌 Software Developer sharing about my journey and learnings in tech<br/>
-🎨 I am passionate about learning new technologies and developing projects that solve real-world problems.  
+🔌 A software Developer sharing about his journey and learnings in tech<br/>
+🎨 I'm passionate about learning new technologies and developing projects that solve real-world problems.  
 💻 This repository is a collection of my works, experiments, and ideas that I am constantly improving.<br/>
 💭 Currently learning about web technologies<br/>
 
