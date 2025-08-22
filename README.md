@@ -21,7 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&theme=buefy&layout=compact" />
 </a>
 
-
 <!--
 # 💻 Featured YouTube Videos
  YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
