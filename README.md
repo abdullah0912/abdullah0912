@@ -17,8 +17,7 @@
 <br/>
 
 <a href="https://github.com/abdullah0912">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah0912&theme=buefy&show_icons=true_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&theme=buefy&layout=compact" />
 </a>
 
 <!--
