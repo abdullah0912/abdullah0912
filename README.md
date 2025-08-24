@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Abdullah!
 🔌 A software developer sharing about my journey and learnings in tech<br/>
-🎨 I'm passionate about learning new technologies and developing projects that solve real-world problems.  
-💻 This repository is a collection of my works, experiments, and ideas that I am constantly improving.<br/>
-💭 Currently learning about web technologies<br/>
+🎨 I'm passionate about learning new techs and developing projects that solve real-world problems.  
+💻 This repo is a collection of my works, experiments, and ideas that I am constantly improving.<br/>
+💭 Currently learning about web techs<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
