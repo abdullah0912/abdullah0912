@@ -14,12 +14,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/abdullah0912">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&theme=buefy&layout=compact" />
-</a>
-
 <!--
 # 💻 Featured YouTube Videos
  YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
