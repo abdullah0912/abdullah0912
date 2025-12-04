@@ -27,16 +27,6 @@ Passionate about **AI** 🤖, **IT**, and **Software Development** 💻.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/abdullah0912">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah0912&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah0912&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-ka%C5%9Fgar-6220a3329"><img src="https://img.shields.io/badge/LinkedIn-AbdullahKaşgar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
